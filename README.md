@@ -1,7 +1,27 @@
 # Portfolio_BackEnd
-# Project Name
+# Portfolio_Frontend-
 
-![Project Banner](assets/images/project-banner.png)
+<p align="center">
+  <img src="REDME/Screenshot_26-8-2024_192856_localhost.jpeg" alt="Project Banner" width="300" height="200"/>
+  <img src="REDME/Screenshot_26-8-2024_193327_localhost.jpeg" alt="Project Banner1" width="300" height="200"/>
+  <img src="REDME/Screenshot_26-8-2024_19314_localhost.jpeg" alt="Project Banner2" width="300" height="200"/>
+</p>
+
+<p align="center">
+  <img src="REDME/Screenshot_26-8-2024_19344_localhost.jpeg" alt="Project Banner3" width="300" height="200"/>
+  <img src="REDME/Screenshot_26-8-2024_192932_localhost.jpeg" alt="Project Banner4" width="300" height="200"/>
+  <img src="REDME/Screenshot_26-8-2024_193034_localhost.jpeg" alt="Project Banner6" width="300" height="200"/>
+</p>
+
+<p align="center">
+  <img src="REDME/Screenshot_26-8-2024_193154_localhost.jpeg" alt="Project Banner7" width="300" height="200"/>
+  <img src="REDME/Screenshot_26-8-2024_193449_localhost.jpeg" alt="Project Banner9" width="300" height="200"/>
+  <img src="REDME/Screenshot_26-8-2024_19309_localhost.jpeg" alt="Project Banner10" width="300" height="200"/>
+</p>
+
+## Important Notice
+
+This repository is protected. You are not allowed to download, use, or distribute the code in this repository without explicit permission from the repository owner. Please contact me at ayoublandolsie@gmail.com if you wish to use or contribute to this project.
 
 ## Description
 
@@ -38,4 +58,3 @@ This project is a full-stack web application with a React frontend and a Laravel
 - **Email Service**: Laravel Mail, Mailgun/SMTP
 - **Build Tool**: Vite.js
 
-![Project Screenshot](assets/images/project-screenshot.png)
