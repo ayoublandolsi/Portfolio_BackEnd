@@ -1,5 +1,10 @@
 # Portfolio_BackEnd
-# Portfolio_Frontend-
+
+## Important Notice
+
+This repository is protected. You are not allowed to download, use, or distribute the code in this repository without explicit permission from the repository owner. Please contact me at ayoublandolsie@gmail.com if you wish to use or contribute to this project.
+
+
 
 <p align="center">
   <img src="REDME/Screenshot_26-8-2024_192856_localhost.jpeg" alt="Project Banner" width="250" height="200"/>
@@ -18,10 +23,6 @@
   <img src="REDME/Screenshot_26-8-2024_193449_localhost.jpeg" alt="Project Banner9" width="250" height="200"/>
   <img src="REDME/Screenshot_26-8-2024_19309_localhost.jpeg" alt="Project Banner10" width="250" height="200"/>
 </p>
-
-## Important Notice
-
-This repository is protected. You are not allowed to download, use, or distribute the code in this repository without explicit permission from the repository owner. Please contact me at ayoublandolsie@gmail.com if you wish to use or contribute to this project.
 
 ## Description
 
